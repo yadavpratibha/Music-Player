@@ -1,36 +1,26 @@
-# Music-Player using HTML, CSS and Javascript
+# 🎵 Music Player App
 
-## Overview
+A responsive and interactive music player built using **HTML**, **CSS**, and **JavaScript**. It supports dynamic playlists, real-time progress tracking, and seamless play/pause/skip functionality for an enhanced listening experience.
 
 ![snapshot1](https://github.com/yadavpratibha/WebDevelopment/assets/25881107/e27c1aa3-af57-4ede-87b8-08dc691f8cec)
 
-A sleek and responsive music player web application built with HTML, CSS, and JavaScript.
+## 🚀 Features
 
-## Table of Contents
-- [Description](#Description)
-- [Features](#Features)
-- [Demo](#Demo)
-- [Snapshot](#Snapshot)
-- [Usage](#Usage)
-- [LearningObjective](#LearningObjective)
+- 🎼 Dynamic playlist generation
+- ▶️ Play/Pause toggle with icon switch
+- ⏮ Previous / ⏭ Next track navigation
+- 📊 Real-time progress bar with seek control
+- 🎧 Click-to-play from playlist
+- 🔊 Responsive and user-friendly UI
 
+## 🛠️ Technologies Used
 
-## Description
-Frontend Music Player is a modern web application designed for playing and managing your favorite music seamlessly. Built with HTML for structure, CSS for styling, and JavaScript for dynamic functionality, it provides an immersive music listening experience.
-
-## Features
-- **Responsive Design**: Ensures an optimal user experience across various devices.
-- **Music Playback**: Play, pause, previous and next with a user-friendly interface.
-- **Playlist**: Select song according to your choice.
+- HTML5
+- CSS3
+- JavaScript
 
 ## Demo
 https://65d4b868472a40e5250aef93--sparkling-pixie-1fb8dc.netlify.app/
-
-## Usage
-1. Open `index.html` in your preferred web browser.
-2. Explore the music player interface and enjoy your favorite tunes.
-3. Select song provided in the UI.
-4. Play, pause, previous and next with a user-friendly interface
 
 ## LearningObjective
 * Build and style static webpages with semantic HTML and CSS
