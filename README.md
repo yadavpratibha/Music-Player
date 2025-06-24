@@ -2,7 +2,7 @@
 
 A responsive and interactive music player built using **HTML**, **CSS**, and **JavaScript**. It supports dynamic playlists, real-time progress tracking, and seamless play/pause/skip functionality for an enhanced listening experience.
 
-![snapshot1](https://github.com/yadavpratibha/WebDevelopment/assets/25881107/e27c1aa3-af57-4ede-87b8-08dc691f8cec)
+![snapshot1](https://github.com/yadavpratibha/Music-Player/blob/main/snapshot1.jpg)
 
 ## 🚀 Features
 
